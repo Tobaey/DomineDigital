@@ -486,7 +486,9 @@ footer {
   .domine .view {
     background-size: cover;
   }
-
+  .domine .navbar-brand img {
+    width: 70%;
+  }
   .mal_con h2 {
     font-size: 45px;
   }

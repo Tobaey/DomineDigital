@@ -137,7 +137,7 @@ body {
   color: #00aced;
 }
 
-.list-inline-item .fa-google-plus-g:hover {
+.list-inline-item .fa-envelope:hover {
   background-color: #fff;
   color: #e9331b;
 }
@@ -167,7 +167,7 @@ body {
   color: #fff;
 }
 
-.list-inline-item .fa-google-plus-g {
+.list-inline-item .fa-envelope {
   color: #fff;
   background-color: #dd4b39;
 }
@@ -193,10 +193,13 @@ body {
 .fa-twitter:hover {
   color: #00aced;
 }
-.fa-google-plus:hover {
+.fa-envelope:hover {
   color: #e9331b;
 }
 .fa-linkedin:hover {
+  color: #0b45e4;
+}
+.fa-linkedin-in:hover {
   color: #0b45e4;
 }
 .fa-facebook-messenger:hover {
